@@ -1,8 +1,8 @@
-Package: mydatapkg
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Package: LFS402
+Title: This dataset contains Iran's Labor Force Survey in 2025.
+Version: 1.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Sana", "Hosseini", , "hosseinii.sanaa@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
@@ -12,5 +12,5 @@ RoxygenNote: 7.3.1
 Depends: 
     R (>= 3.5)
 LazyData: true
-URL: https://github.com/hosseinii-sanaa/mydatapkg
-BugReports: https://github.com/hosseinii-sanaa/mydatapkg/issues
+URL: https://github.com/hosseinii-sanaa/LFS402
+BugReports: https://github.com/hosseinii-sanaa/LFS402/issues
